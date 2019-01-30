@@ -1,0 +1,234 @@
+<application>
+  <component name="PandoraTypes">
+    <option name="templates">
+      <Templates>
+        <option name="downloadUrl" value="http://gitlab.alibaba-inc.com/aone-docker/release/repository/archive.zip?ref=master" />
+        <option name="templates">
+          <list>
+            <Template>
+              <option name="name" value="pandoraboot-7u" />
+              <option name="path" value="pandoraboot-7u" />
+            </Template>
+          </list>
+        </option>
+      </Templates>
+    </option>
+    <option name="types">
+      <Types>
+        <option name="downloadUrl" value="http://mw.alibaba-inc.com/starter.zip" />
+        <option name="simple">
+          <list>
+            <Type>
+              <option name="desc" value="请按需勾选" />
+              <option name="frameworks">
+                <list>
+                  <Framework>
+                    <option name="desc" value="Spring Web框架" />
+                    <option name="name" value="SpringMVC" />
+                    <option name="recommend" value="true" />
+                    <option name="value" value="springmvc" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="集团通用Web框架" />
+                    <option name="name" value="WebX3" />
+                    <option name="value" value="webx3" />
+                  </Framework>
+                </list>
+              </option>
+              <option name="name" value="Web框架" />
+              <option name="single" value="true" />
+            </Type>
+            <Type>
+              <option name="desc" value="请按需勾选" />
+              <option name="frameworks">
+                <list>
+                  <Framework>
+                    <option name="desc" value="阿里高性能服务框架" />
+                    <option name="name" value="HSF" />
+                    <option name="value" value="hsf" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分库分表数据库服务" />
+                    <option name="name" value="TDDL" />
+                    <option name="value" value="tddl" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式消息服务" />
+                    <option name="name" value="ONS" />
+                    <option name="value" value="ons" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式持久配置系统" />
+                    <option name="name" value="Diamond" />
+                    <option name="value" value="diamond" />
+                  </Framework>
+                </list>
+              </option>
+              <option name="name" value="中间件" />
+            </Type>
+            <Type>
+              <option name="desc" value="请按需勾选" />
+              <option name="frameworks">
+                <list>
+                  <Framework>
+                    <option name="desc" value="配置项替换工具" />
+                    <option name="name" value="AutoConfig" />
+                    <option name="value" value="autoconfig" />
+                  </Framework>
+                </list>
+              </option>
+              <option name="name" value="基础产品" />
+            </Type>
+          </list>
+        </option>
+        <option name="springBoot">
+          <list>
+            <Type>
+              <option name="desc" value="请按需勾选" />
+              <option name="frameworks">
+                <list>
+                  <Framework>
+                    <option name="desc" value="Spring Web框架" />
+                    <option name="name" value="SpringMVC" />
+                    <option name="recommend" value="true" />
+                    <option name="value" value="springmvc" />
+                  </Framework>
+                </list>
+              </option>
+              <option name="name" value="Web框架" />
+              <option name="single" value="true" />
+            </Type>
+            <Type>
+              <option name="desc" value="请按需勾选" />
+              <option name="frameworks">
+                <list>
+                  <Framework>
+                    <option name="desc" value="阿里高性能服务框架" />
+                    <option name="name" value="HSF" />
+                    <option name="value" value="hsf" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分库分表数据库服务" />
+                    <option name="name" value="TDDL" />
+                    <option name="value" value="tddl" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式消息服务" />
+                    <option name="name" value="ONS" />
+                    <option name="value" value="ons" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式持久配置系统" />
+                    <option name="name" value="Diamond" />
+                    <option name="value" value="diamond" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式缓存" />
+                    <option name="name" value="Tair" />
+                    <option name="value" value="tair" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式消息服务" />
+                    <option name="name" value="Notify" />
+                    <option name="value" value="notify" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="限流" />
+                    <option name="name" value="Sentinel" />
+                    <option name="value" value="sentinel" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="链路监控" />
+                    <option name="name" value="EagleEye" />
+                    <option name="value" value="eagleeye" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="分布式任务调度" />
+                    <option name="name" value="SchedulerX" />
+                    <option name="value" value="schedulerx" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="轻量级开关和动态配置项管理框架" />
+                    <option name="name" value="Switch" />
+                    <option name="value" value="switch" />
+                  </Framework>
+                </list>
+              </option>
+              <option name="name" value="中间件" />
+            </Type>
+            <Type>
+              <option name="desc" value="请按需勾选" />
+              <option name="frameworks">
+                <list>
+                  <Framework>
+                    <option name="desc" value="配置项替换工具" />
+                    <option name="name" value="AutoConfig" />
+                    <option name="value" value="autoconfig" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="应用监控" />
+                    <option name="name" value="AliMonitor" />
+                    <option name="value" value="alimonitor" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="基于tair和cookie存储的session框架" />
+                    <option name="name" value="TBSession" />
+                    <option name="value" value="tbsession" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="统一登录" />
+                    <option name="name" value="BUC" />
+                    <option name="value" value="buc" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="集团权限管理平台" />
+                    <option name="name" value="ACL" />
+                    <option name="value" value="acl" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="监控系统" />
+                    <option name="name" value="AliMetrics" />
+                    <option name="value" value="metrics" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="UIC client" />
+                    <option name="name" value="UIC" />
+                    <option name="value" value="uic" />
+                  </Framework>
+                  <Framework>
+                    <option name="desc" value="安全" />
+                    <option name="name" value="Security" />
+                    <option name="value" value="security" />
+                  </Framework>
+                </list>
+              </option>
+              <option name="name" value="基础产品" />
+            </Type>
+          </list>
+        </option>
+      </Types>
+    </option>
+  </component>
+  <component name="SmartFoxConfig">
+    <option name="DPlusInitialViewTime" value="1489054008111" />
+    <option name="codeStyleImported" value="true" />
+    <option name="eclipseCodeFormatterDisableOnce" value="true" />
+    <option name="fileHeaderSet" value="true" />
+    <option name="firstTime" value="1489054008000" />
+    <option name="userInfo">
+      <UserInfo>
+        <option name="department" value="高德-信息业务中心-数据融合部-数据融合组" />
+        <option name="empId" value="121079" />
+        <option name="expireTime" value="1507541357067" />
+        <option name="login" value="true" />
+        <option name="mail" value="yukun.gyk@alibaba-inc.com" />
+        <option name="ticket" value="32a2d46a6642e3007e0142c641d7bfb0788a8f47a1eca9302df161d0ee27ef834356b2d657843d7a2b37eb3dd22f81c38f8f9454fdf2f5b83c57df07c9cff3e971e746da3f94ec2dfe7003d4501eac2badd10cf8327850ea5e4e64acd7877dbd72869de4fafa1174f0acda69cd0bbd54e797e9391cecb0276545527b2a6a2f138a29016aca0c3789f58f434e23f331f8be5e5e9738ab31bd7214be33538148911dfabe84b0cafea862a70f4658fd6033952277805f667b68de73f35f114ff1a861d82cc1e84219f6b46cb57bd7004f6cc4020342f38b11739eeedafbd18614d824a19320b803" />
+        <option name="token" value="W10o16U0SpnvmwB9mJGg95G32ywerkybSG4V0QCfxgVsyUGeZYi8VxDEVcpqb25y" />
+      </UserInfo>
+    </option>
+  </component>
+  <component name="SmartFoxInfo">
+    <option name="identify" value="c4b301ce0fc3-guoyukundemacbookwork.local" />
+    <option name="mail" value="yukun.gyk@alibaba-inc.com" />
+  </component>
+</application>

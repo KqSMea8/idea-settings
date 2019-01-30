@@ -1,0 +1,142 @@
+<application>
+  <component name="StudioOdpsProjects">
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="ant_ext.ant_ext_for_gaode_bda" />
+          <option value="autonavi_adb.an_geo_gridadcode_pkg" />
+          <option value="autonavi_adb.an_geocode_offline_test" />
+          <option value="autonavi_adb.an_geocoding" />
+          <option value="autonavi_adb.an_geosplit" />
+          <option value="autonavi_adb.an_geosplit_test" />
+          <option value="autonavi_base_sp.pkg_city_info" />
+          <option value="cms_monitor.pakg_915145_l2" />
+          <option value="gd_cdm.pakg_poi_20180525" />
+          <option value="gd_ods.pakg_poi_20180525" />
+          <option value="gd_ods.pkg_gd_udfs" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAI3Vz0sGcOOG7K" />
+          <option name="accessKey" value="nNJyULipP4DGVDhCcC2ptvmHYsFIhm" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="gaode_bda" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="autonavi_adb.an_geo_gridadcode_pkg" />
+          <option value="autonavi_adb.an_geocode_offline_test" />
+          <option value="autonavi_adb.an_geocoding" />
+          <option value="autonavi_adb.an_geosplit" />
+          <option value="autonavi_adb.an_geosplit_test" />
+          <option value="cms_monitor.pakg_915145_l2" />
+          <option value="gd_cdm.pakg_poi_20180525" />
+          <option value="gd_ods.pkg_gd_udfs" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAI3Vz0sGcOOG7K" />
+          <option name="accessKey" value="nNJyULipP4DGVDhCcC2ptvmHYsFIhm" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="gaode_bda_dev" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="alipay_ddm.alipay_ddm_for_gaode_cms_deepin" />
+          <option value="ant_ext.ant_ext_for_gaode_cms_deepin" />
+          <option value="antddm.antddm_for_gaode_cms_deepin" />
+          <option value="antddm_algo.antddm_algo_for_gaode_cms_deepin" />
+          <option value="antods.antods_for_gaode_cms_deepin" />
+          <option value="cms_monitor.pakg_954673_l2" />
+          <option value="gaode_cms_datamining.pakg_203009_l2" />
+          <option value="gaode_cms_datamining.pakg_203010_l3" />
+          <option value="gd_cdm.pakg_poi_20180525" />
+          <option value="gd_ods.pakg_poi_20180525" />
+          <option value="lse_performance.search_no_result" />
+          <option value="sscredit_dw.sscredit_dw_for_gaode_cms_deepin" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAI3Vz0sGcOOG7K" />
+          <option name="accessKey" value="nNJyULipP4DGVDhCcC2ptvmHYsFIhm" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="gaode_cms_deepin" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="alipay_ddm.alipay_ddm_for_gaode_cms_deepin" />
+          <option value="antods.antods_for_gaode_cms_deepin" />
+          <option value="cms_monitor.pakg_950562_l2" />
+          <option value="cms_monitor.pakg_954673_l2" />
+          <option value="gaode_cms_base.gaode_cms_base_parse_json_package" />
+          <option value="gaode_cms_base_dev.gaode_cms_base_function_package" />
+          <option value="gd_cdm.pakg_poi_20180525" />
+          <option value="gd_ods.pakg_poi_20180525" />
+          <option value="sscredit_dw.sscredit_dw_for_gaode_cms_deepin" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAI3Vz0sGcOOG7K" />
+          <option name="accessKey" value="nNJyULipP4DGVDhCcC2ptvmHYsFIhm" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="gaode_cms_deepin_dev" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+    <StudioOdpsProject>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAI3Vz0sGcOOG7K" />
+          <option name="accessKey" value="nNJyULipP4DGVDhCcC2ptvmHYsFIhm" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="odps_public" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+    <StudioOdpsProject>
+      <option name="packageNames">
+        <list>
+          <option value="ata.odps_public_for_ata" />
+          <option value="edlab.edlab_for_odps_public" />
+          <option value="odps_public.klio_table" />
+          <option value="odps_public.public_test" />
+          <option value="odps_public.test" />
+          <option value="odps_public.test_name" />
+        </list>
+      </option>
+      <option name="synced" value="true" />
+      <option name="projectAccess">
+        <OdpsProjectAccess>
+          <option name="accessId" value="LTAI3Vz0sGcOOG7K" />
+          <option name="accessKey" value="nNJyULipP4DGVDhCcC2ptvmHYsFIhm" />
+          <option name="endPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+          <option name="projectName" value="odps_public_dev" />
+          <option name="realEndPoint" value="http://service-corp.odps.aliyun-inc.com/api" />
+        </OdpsProjectAccess>
+      </option>
+    </StudioOdpsProject>
+  </component>
+</application>

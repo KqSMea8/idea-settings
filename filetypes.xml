@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="admin-cron" type="PLAIN_TEXT" />
+      <mapping pattern="quxian_poiid_name_adcode" type="PLAIN_TEXT" />
+      <mapping pattern="privacy" type="PLAIN_TEXT" />
+      <mapping pattern="cm-javascript-hint" type="PLAIN_TEXT" />
+      <mapping pattern="pandora_tddl_undeploy" type="PLAIN_TEXT" />
+      <mapping pattern="just-placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="motd" type="PLAIN_TEXT" />
+      <mapping pattern="MultilinePopup" type="PLAIN_TEXT" />
+      <mapping pattern="js" type="PLAIN_TEXT" />
+      <mapping pattern="PositionDialog" type="PLAIN_TEXT" />
+      <mapping pattern="biz-curd" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="integrator" type="PLAIN_TEXT" />
+      <mapping ext="release" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

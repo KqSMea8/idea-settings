@@ -1,0 +1,55 @@
+<application>
+  <component name="StudioSettings">
+    <option name="generalSettings">
+      <GeneralSettings>
+        <option name="pythonPath" value="/usr/bin/python" />
+        <option name="macAddress" value="C4-B3-01-CE-0F-C3" />
+      </GeneralSettings>
+    </option>
+    <option name="accountSettings">
+      <AccountSettings>
+        <option name="providerAccountMap">
+          <map>
+            <entry value="LTAI3Vz0sGcOOG7K###nNJyULipP4DGVDhCcC2ptvmHYsFIhm###1108076066706339">
+              <key>
+                <AccountUnitKey>
+                  <option name="name" value="1108076066706339" />
+                  <option name="providerId" value="Aliyun Account By AccessKey" />
+                </AccountUnitKey>
+              </key>
+            </entry>
+            <entry value="{&quot;cookies&quot;:{&quot;c_token&quot;:&quot;1c0152bffa862c433963679dc03603f3&quot;,&quot;sg&quot;:&quot;k19&quot;,&quot;lvc&quot;:&quot;sAhv4lnvYPoFrw%3D%3D&quot;,&quot;ck2&quot;:&quot;405721097d7b1d9a21c247d6ddc71b7e&quot;,&quot;lg&quot;:&quot;true&quot;,&quot;an&quot;:&quot;yukun.gyk&quot;},&quot;akAccess&quot;:{&quot;accessId&quot;:&quot;LTAI3Vz0sGcOOG7K&quot;,&quot;accessSecret&quot;:&quot;nNJyULipP4DGVDhCcC2ptvmHYsFIhm&quot;},&quot;userDetail&quot;:{&quot;bucId&quot;:843437,&quot;mail&quot;:&quot;yukun.gyk@alibaba-inc.com&quot;,&quot;phone&quot;:&quot;13681425312&quot;,&quot;extInfo&quot;:&quot;{\u0027name\u0027:\u0027郭玉昆\u0027}&quot;,&quot;lastLoginTime&quot;:&quot;Jul 3, 2018 3:19:10 PM&quot;,&quot;baseId&quot;:&quot;121079&quot;,&quot;accountId&quot;:&quot;121079&quot;,&quot;accountType&quot;:&quot;2&quot;,&quot;accountName&quot;:&quot;yukun.gyk&quot;,&quot;nick&quot;:&quot;郭玉昆&quot;,&quot;wangwang&quot;:&quot;&quot;,&quot;disabled&quot;:false,&quot;registed&quot;:true,&quot;havanaId&quot;:&quot;2997044876&quot;,&quot;yunAccount&quot;:&quot;bs7hvcxc6u0s@aliyun.com&quot;,&quot;businessId&quot;:&quot;121079&quot;,&quot;enableKp&quot;:0,&quot;gmtCreate&quot;:&quot;Oct 10, 2016 10:31:40 AM&quot;},&quot;profilePhoto&quot;:&quot;/Users/guo/.odps.studio/user/121079.jpg&quot;,&quot;loginType&quot;:&quot;ALI_WORK&quot;}###STUDIO_USER_ACCOUNT_PROVIDER">
+              <key>
+                <AccountUnitKey>
+                  <option name="name" value="STUDIO_USER_ACCOUNT" />
+                  <option name="providerId" value="STUDIO_USER_ACCOUNT_PROVIDER" />
+                </AccountUnitKey>
+              </key>
+            </entry>
+          </map>
+        </option>
+        <option name="defaultAccount" value="1108076066706339" />
+      </AccountSettings>
+    </option>
+    <option name="sdkSettings">
+      <SdkSettings>
+        <option name="allSdks">
+          <list>
+            <SdkInfo>
+              <option name="sdkType" value="ODPS_CMD" />
+              <option name="version" value="0.29.1" />
+              <option name="installedLocation" value="$APPLICATION_PLUGINS_DIR$/odps-studio-intellij/odpscmd_public" />
+              <option name="isDefault" value="true" />
+            </SdkInfo>
+          </list>
+        </option>
+      </SdkSettings>
+    </option>
+    <option name="updaterSettings">
+      <UpdaterSettings>
+        <option name="lastCheckedTimeInMillis" value="1547792376675" />
+        <option name="latestPluginVersion" value="3.0.5" />
+      </UpdaterSettings>
+    </option>
+  </component>
+</application>
